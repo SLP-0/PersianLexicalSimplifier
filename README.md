@@ -30,6 +30,10 @@ Keywords: Natural Language Processing, Persian Text Simplification, Lexical Comp
 
 ## Usage
 
+0. Open in colab:
+    
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SLP-0/lexical-simplification-fa/blob/main/thesis_notebook.ipynb)
+
 1. Open the Jupyter Notebook:
     ```bash
     jupyter notebook
